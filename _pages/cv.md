@@ -9,26 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Personal
-======
-* __Citizenship:__ Cameroonian
-* __Permanent Residence:__ Canada (obtained in January 2016)
-
 Education
 ======
-*  __NSERC Postdoctoral Fellow,__ September 2017-present.
- * _Advisor:_ Simon Levin.
-* __PhD in Applied Mathematics,__ September 2012-August  2017.
- * _University of Alberta,_ Canada
-* __Embded certificate in Data Sceince,__ September 2012-August  2017.
- * _University of Alberta,_ Canada.
-*__Master of Science in Mathematical Engineering,__ September 2010-August  2012.
- * _Erasmus Mundus Joint Master's degree in Mathematical Modelling in Engineering(Mathmods):_ Theory, Numerics, Applications (University of L'Aquila-Italy and University of  Hamburg-Germany).
-_Advisor:_ Pasquale Palumbo.
-* __Bachelor of Science in Mathematics,__ October 2007-July 2009.
- * _University of Buea,_ Cameroon.
-* __Bachelor of Education in Mathematics,__ October 2003-July 2006.
- * _Advanced Teachers' Training College Annex Bambili (Ecole Normale Superieure Annexe Bambili),_University of Yaounde 1, Cameroon.
+*  __NSERC Postdoctoral Fellow,__ Currently
+  * _Advisor:_ Simon Levin.
+* __PhD in Applied Mathematics,__ August  2017
+  * _University of Alberta,_ Canada
+* __Embded certificate in Data Sceince,__ August  2017
+  * _University of Alberta,_ Canada.
+* __Master of Science in Mathematical Engineering,__ August  2012
+  * _Erasmus Mundus Joint Master's degree in Mathematical Modelling in Engineering(Mathmods):_ Theory, Numerics, Applications (University of L'Aquila-Italy and University of  Hamburg-Germany)
+ _Advisor:_ Pasquale Palumbo.
+* __Bachelor of Science in Mathematics,__ July 2009
+  * _University of Buea,_ Cameroon.
+* __Bachelor of Education in Mathematics,__ July 2006
+  * _Advanced Teachers' Training College Annex Bambili (Ecole Normale Superieure Annexe Bambili),_University of Yaounde 1, Cameroon.
 
 RESEARCH EXPERIENCE
 ======
@@ -75,29 +70,29 @@ Workshops
   
   Awards
   ======
-  * __University of Alberta,__Canada, 2017
+  * __University of Alberta,__ Canada, 2017
     * Faculty of Science Doctoral Dissertation Award.
-* __University of Alberta,__Canada, 2015
+* __University of Alberta,__ Canada, 2015
   * 2015 Graduate Student Teaching Award.
   
 Teaching Experience
 ======
 * __University of Alberta,__ Canada, Terms: Winter, Spring & Summer 2014, Winter, Spring & Summer 2015,
-Winter, Summer & Fall 2014, Winter, Spring & Summer 2014, Winter, Spring & Summer 2016.
-  *TA Maths 201 (Ordinary Differential Equations) Labs, set quizzes for these labs and graded them. Equally graded the weekly assignments for students in this lab.
+Winter, Summer & Fall 2014, Winter, Spring & Summer 2014, Winter, Spring & Summer 2016
+  * TA Maths 201 (Ordinary Differential Equations) Labs, set quizzes for these labs and graded them. Equally graded the weekly assignments for students in this lab.
 * __University of Alberta,__ Canada, Terms: Fall 2013, Spring 2014, Fall 2015
   * TA Maths 209 (Calculus III) Labs, set quizzes for these labs and graded them.
   * Assist students in solving first and second year mathematics problems at Decima Robinson Support Centre.
   * Assist the Department of Mathematics in the supervision of midterm and final examinations.
 * __University of Alberta,__ Canada, Term: Fall 2012
- * Assist students in solving first and second year mathematics problems at Decima Robinson
+  * Assist students in solving first and second year mathematics problems at Decima Robinson
 Support Centre.
- * Graded assignments for Maths 300 (Partial Differential Equations).
- * Assist the Department of Mathematics in the supervision of midterm and final examinations.
-* __Athabasca University,__ Canada,  Term: Fall 2015-Present
+  * Graded assignments for Maths 300 (Partial Differential Equations).
+  * Assist the Department of Mathematics in the supervision of midterm and final examinations.
+ * __Athabasca University,__ Canada,  Term: Fall 2015-Present
   * Tutor for Ordinary and Partial Differential Equations courses (Math 376 and Math 476).
 * __Government Secondary School-Great Soppo,__ Buea, Cameroon Sept 2006 - July 2010
- * Taught Mathematics to Secondary School students.
+  * Taught Mathematics to Secondary School students.
  
 Scholarshps
 ======
@@ -140,7 +135,7 @@ University of Alberta
 REFEREES
 ======
 * __Simon A. Levin,__
- * Princeton University,
+  * Princeton University,
  * __Email:__ slevin@princeton.edu.
 * __Hao Wang,__
   * University of Alberta,
