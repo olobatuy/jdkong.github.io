@@ -1,20 +1,17 @@
 ---
 title: "Teaching Statement"
 collection: teaching
-type: ""
+type:
 permalink: /teaching/2017-10-28-teaching-statement
-venue: ""
-date: 2017-10-28
-location: ""
+venue:
+date:
+location:
 ---
 
 My love for teaching dates back to my Primary School days. When I realized that Mathematics was a nightmare for most of my classmates, I decided to study Mathematics on a daily basis, with the aim of understanding more than what was done
 in class; so as to be the only person that could solve challenging problems given to us by our primary school teacher.
 Hence, I had the opportunity to go to the board to solve problems
-for my classmates, which is something I very much cherish. I equally had many pupils bringing gifts for me everyday since they wanted to be my
-friends. I used to feel excited whenever I was given the opportunity to solve intricate problems for my classmates. The profoundity of the
-ineffable feeling of triumph and the urge to remain the best made me interested in teaching  and  end me the nakename ``Prof''  right from Primary School .
-
+for my classmates, which is something I very much cherish. I equally had many pupils bringing gifts for me everyday since they wanted to be my my friends. I used to feel excited whenever I was given the opportunity to solve intricate problems for my classmates. The profoundity of the ineffable feeling of triumph and the urge to remain the best made me interested in teaching and end me the nakename "Prof" right from Primary School .
 
 My experiences in teaching are wide. Upon graduating from High School, I took the Mathematics competitive
 entrance examination  into the Advanced Teachers' Training College Annex Bambili which was then under the Faculty of Education in the University
