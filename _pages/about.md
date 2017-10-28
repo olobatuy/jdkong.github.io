@@ -15,6 +15,7 @@ My primary research work focuses on formulating and analyzing stoichiometry base
 * How do the grazers affect decomposition?
 * How can the rate of decomposition be maximized or minimized?
 * What are the impacts of important factors such as temperature, priming effect, and inhibitory effect of excess  organic matter on the decomposition rate?
+
 Additionally, I develop and analyze  stoichiometry based models for  the dynamics of phytoplankton  in a stratified lake. These models  incorporate the  dependence of phytoplankton production on light and cellular nutrient contents.  The main objectives here are twofold:
 * firstly, to examine how the key features of a stratified lake such as  the depths of the epilimnion and hypolimnion, nutrient status and light availability, affect the persistence and density of phytoplankton in a lake, and
 * secondly to discuss how agricultural activities around the lake and pollution causes phytoplankton bloom in a lake.
