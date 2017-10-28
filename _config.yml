@@ -17,7 +17,7 @@ repository               : "jdkong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-read_more                : "enabled" # if enabled, adds "Read more" links to excerpts it could be disable
+read_more                : "disable" # if enabled, adds "Read more" links to excerpts it could be disable
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -79,8 +79,8 @@ analytics:
 # Site Author
 author:
   name             : "Jude Dzevela Kong"
-  avatar           : "profile.png"
-  bio              : " NSERC Postdoctoral Fellow, Applied Mathetician and Data Scientist."
+  avatar           : "photo.png"
+  bio              : "NSERC Postdoctoral Fellow, Applied Mathematician and Data Scientist."
   location         : "New Jersey"
   employer         :
   googlescholar    :
