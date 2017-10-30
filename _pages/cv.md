@@ -132,17 +132,6 @@ University of Alberta
 * __President:__ Advanced Teacher's Training College Annex Bambili,  May 2005-May 2006.
 * __Volunteer, Cameroon cultural pavilion:__ GlobalFest 2013, August 14-24.
 
-REFEREES
-======
-* __Simon A. Levin,__
-  * Princeton University,
-  * __Email:__ slevin@princeton.edu.
-* __Hao Wang,__
-  * University of Alberta,
-  * __Email:__ hao8@ualberta.ca.
-* __Mark Lewis,__
-  * University of Alberta,
-  * Email: mark.lewis@ualberta.ca.
 
   
  
