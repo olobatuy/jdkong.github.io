@@ -114,7 +114,7 @@ Languages
 Computer skills
 ======
 * __Programming Languages:__
-  * Python, Julia and Java.
+   * Python, Julia and Java.
 * __Specialised Softwares:__
   * MATLAB, Mathematica, R, STATA, SAS, SPSS.
 
