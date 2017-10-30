@@ -17,8 +17,8 @@ My primary research work focuses on formulating and analyzing stoichiometry base
 * What are the impacts of important factors such as temperature, priming effect, and inhibitory effect of excess  organic matter on the decomposition rate?
 
 Additionally, I develop and analyze  stoichiometry based models for  the dynamics of phytoplankton  in a stratified lake. These models  incorporate the  dependence of phytoplankton production on light and cellular nutrient contents.  The main objectives here are twofold:
-* firstly, to examine how the key features of a stratified lake such as  the depths of the epilimnion and hypolimnion, nutrient status and light availability, affect the persistence and density of phytoplankton in a lake, and
-* secondly to discuss how agricultural activities around the lake and pollution causes phytoplankton bloom in a lake.
+* firstly, to examine how the key features of a stratified lake, such as the depths of epilimnion and hypolimnion, nutrient and light availability, affect the persistence, extinction and biodiversity of algae and bacteria in a stratified lake and
+* secondly to dicuss how human activities, such as nearby agriculture or industrial pollution, cause harmful algal blooms (HAB) in a stratified lake.
 
 I also have a vested interest in diseases dynamics, which is growing rapidly. The current focus is on  formulating and analyzing directly and indirectly  transmitted infectious disease model among homogenous populations as well as heterogeneous populations.  Questions aim to answer include:
 * Why are there irregularities in seasonal patterns of outbreaks amongst different countries?
