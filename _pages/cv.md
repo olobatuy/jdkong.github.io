@@ -12,14 +12,12 @@ redirect_from:
 Education
 ======
 *  __NSERC Postdoctoral Fellow,__ Currently
-  # * _Advisor:_ Simon Levin.
 * __PhD in Applied Mathematics,__ August  2017
   * _University of Alberta,_ Canada
 * __Embded certificate in Data Sceince,__ August  2017
   * _University of Alberta,_ Canada.
 * __Master of Science in Mathematical Engineering,__ August  2012
   * _Erasmus Mundus Joint Master's degree in Mathematical Modelling in Engineering(Mathmods):_ Theory, Numerics, Applications (University of L'Aquila-Italy and University of  Hamburg-Germany)
-# _Advisor:_ Pasquale Palumbo.
 * __Bachelor of Science in Mathematics,__ July 2009
   * _University of Buea,_ Cameroon.
 * __Bachelor of Education in Mathematics,__ July 2006
