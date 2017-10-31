@@ -13,7 +13,7 @@ Education
 ======
 *  __NSERC Postdoctoral Fellow,__ Currently
 * __PhD in Applied Mathematics,__ August  2017
-  * _University of Alberta,_ Canada
+  * _University of Alberta,_ Canada.
 * __Embded certificate in Data Sceince,__ August  2017
   * _University of Alberta,_ Canada.
 * __Master of Science in Mathematical Engineering,__ August  2012
