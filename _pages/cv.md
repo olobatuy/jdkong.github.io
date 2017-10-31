@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 *  __NSERC Postdoctoral Fellow,__ Currently
+   * _DIMACS/Princeton University_
 * __PhD in Applied Mathematics,__ August  2017
   * _University of Alberta,_ Canada.
 * __Embded certificate in Data Sceince,__ August  2017
