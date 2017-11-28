@@ -1,11 +1,11 @@
 ---
 title: "Teaching Statement"
 collection: teaching
-type:
+type: "My teaching philosophy"
 permalink: /teaching/2017-10-28-teaching-statement
-venue:
-date:
-location:
+venue: "University of Alberta, Mathematical and Statistical Sciences"
+date: 2017-10-28
+location: "Edmonton, Canada"
 ---
 
 My love for teaching dates back to my Primary School days. When I realized that Mathematics was a nightmare for most of my classmates, I decided to study Mathematics on a daily basis, with the aim of understanding more than what was done
