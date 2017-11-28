@@ -12,18 +12,17 @@ redirect_from:
 Education
 ======
 *  __NSERC Postdoctoral Fellow,__ Currently
-  * _Advisor:_ Simon Levin.
+   * _DIMACS/Princeton University_
 * __PhD in Applied Mathematics,__ August  2017
-  * _University of Alberta,_ Canada
+  * _University of Alberta,_ Canada.
 * __Embded certificate in Data Sceince,__ August  2017
   * _University of Alberta,_ Canada.
 * __Master of Science in Mathematical Engineering,__ August  2012
   * _Erasmus Mundus Joint Master's degree in Mathematical Modelling in Engineering(Mathmods):_ Theory, Numerics, Applications (University of L'Aquila-Italy and University of  Hamburg-Germany)
- _Advisor:_ Pasquale Palumbo.
 * __Bachelor of Science in Mathematics,__ July 2009
   * _University of Buea,_ Cameroon.
 * __Bachelor of Education in Mathematics,__ July 2006
-  * _Advanced Teachers' Training College Annex Bambili (Ecole Normale Superieure Annexe Bambili),_University of Yaounde 1, Cameroon.
+  * _Advanced Teachers' Training College Annex Bambili (Ecole Normale Superieure Annexe Bambili),_ University of Yaounde 1, Cameroon.
 
 RESEARCH EXPERIENCE
 ======
@@ -35,8 +34,8 @@ Refereed Journal Publications:
 * Jude D. Kong, Chaochao Jin, and Hao Wang, _The inverse method for a childhood infectious disease model with its application to pre-vaccination and post-vaccination measles data,_ Bulletin of Mathematical Biology, Vol. 77: 2231-2263 (2015).
 * Kong, Jude D., Paul Salceanu, and Hao Wang, _A stoichiometric organic matter decomposition model in a chemostat culture,_ Journal of Mathematical Biology: 1-36 (2017).
 
- Book publication:
- -------
+Book publication:
+-------
 * Pierdomenica Pepe, Palumbo Pasquale, Jude D. Kong, Saseendran K. Sreeedhar and Panunzi Simona. _Regulation of the Human plasma glycemia by means of glucose measurements and subcutaneous insulin administration,_ in the proceedings of the 3rd international congress on intelligent control and automation science, 46(20), 524-529, (2013) .
 
 Submitted projects:
@@ -68,8 +67,8 @@ Workshops
   * Attended the Alberta Mathematics Dialogue (AMD) meeting May 2014 and May 2013 and gave
   talks there. (Thurs-Fri) 2014 at the Augustana Campus.
   
-  Awards
-  ======
+Awards
+======
   * __University of Alberta,__ Canada, 2017
     * Faculty of Science Doctoral Dissertation Award.
 * __University of Alberta,__ Canada, 2015
@@ -90,7 +89,7 @@ Support Centre.
   * Graded assignments for Maths 300 (Partial Differential Equations).
   * Assist the Department of Mathematics in the supervision of midterm and final examinations.
  * __Athabasca University,__ Canada,  Term: Fall 2015-Present
-  * Tutor for Ordinary and Partial Differential Equations courses (Math 376 and Math 476).
+   * Tutor for Ordinary and Partial Differential Equations courses (Math 376 and Math 476).
 * __Government Secondary School-Great Soppo,__ Buea, Cameroon Sept 2006 - July 2010
   * Taught Mathematics to Secondary School students.
  
@@ -114,8 +113,8 @@ Languages
 Computer skills
 ======
 * __Programming Languages:__
- * Python, Julia and Java.
- * __Specialised Softwares:__
+   * Python, Julia and Java.
+* __Specialised Softwares:__
   * MATLAB, Mathematica, R, STATA, SAS, SPSS.
 
 
@@ -132,17 +131,6 @@ University of Alberta
 * __President:__ Advanced Teacher's Training College Annex Bambili,  May 2005-May 2006.
 * __Volunteer, Cameroon cultural pavilion:__ GlobalFest 2013, August 14-24.
 
-REFEREES
-======
-* __Simon A. Levin,__
-  * Princeton University,
- * __Email:__ slevin@princeton.edu.
-* __Hao Wang,__
-  * University of Alberta,
-  * __Email:__ hao8@ualberta.ca.
-* __Mark Lewis,__
-  * University of Alberta,
-  * Email: mark.lewis@ualberta.ca.
 
   
  

@@ -11,7 +11,7 @@ title                    : "About me"
 title_separator          : "-"
 name                     : &name "Jude Dzevela Kong"
 description              : &description "NSERC Postdoctoral Fellow."
-url                      : https://jdkong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://www.judekong.ca #https://jdkong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jdkong.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -90,14 +90,14 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/dzevela"
+  facebook         : "dzevela"
   foursquare       :
   github           : "jdkong"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "www.linkedin.com/in/jude-dzevela-kong-1311b027"
+  linkedin         : "dzevela"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
