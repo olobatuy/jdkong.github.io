@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "About me"
 title_separator          : "-"
-name                     : &name "Oluwole Victor Olobatuyi"
-description              : &description "Ph.D. Student"
-url                      : http://www.olobatuyi.ca #https://olobatuy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jude Dzevela Kong"
+description              : &description "NSERC Postdoctoral Fellow."
+url                      : http://www.judekong.ca #https://jdkong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "olobatuy.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -21,7 +21,7 @@ read_more                : "disable" # if enabled, adds "Read more" links to exc
 comments:
   provider               : disqus # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : olobatuyi-ca
+    shortname            : judekong-ca
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -78,21 +78,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Oluwole Victor Olobatuyi"
+  name             : "Jude Dzevela Kong"
   avatar           : "photo.png"
-  bio              : "Ph.D Student, Applied Mathematician and Data Scientist."
-  location         : "Alberta"
+  bio              : "NSERC Postdoctoral Fellow, Applied Mathematician and Data Scientist."
+  location         : "New Jersey"
   employer         :
   googlescholar    :
-  email            : "olobatuy@ualberta.ca"
+  email            : "dzevela85@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "Victor"
+  facebook         : "dzevela"
   foursquare       :
-  github           : "olobatuy"
+  github           : "jdkong"
   google_plus      :
   keybase          :
   instagram        :
