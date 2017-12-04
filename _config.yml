@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "About me"
 title_separator          : "-"
-name                     : &name "Jude Dzevela Kong"
-description              : &description "NSERC Postdoctoral Fellow."
+name                     : &name "Oluwole Victor Olobatuyi"
+description              : &description "PhD Student."
 url                      : https://olobatuy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "olobatuy.github.io"
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jude Dzevela Kong"
+  name             : "Oluwole Victor Olobatuyi"
   avatar           : "photo.png"
-  bio              : "NSERC Postdoctoral Fellow, Applied Mathematician and Data Scientist."
-  location         : "New Jersey"
+  bio              : "PhD Student, Applied Mathematician and Data Scientist."
+  location         : "Alberta"
   employer         :
   googlescholar    :
-  email            : "dzevela85@gmail.com"
+  email            : "olobatuy@ualberta.ca"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         : "dzevela"
   foursquare       :
-  github           : "jdkong"
+  github           : "olobatuy"
   google_plus      :
   keybase          :
   instagram        :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "dzevela"
+  twitter          : "OOlobat"
   vine             :
   weibo            :
   xing             :
