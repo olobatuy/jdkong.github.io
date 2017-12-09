@@ -26,43 +26,40 @@ RESEARCH EXPERIENCE
 
 Refereed Journal Publications:
 -------
-* Jude D. Kong, William Davis, Xiong Li, and Hao Wang, _Stability and sensitivity analysis of the iSIR model for indirectly transmitted infectious diseases with immunological threshold,_ SIAM J. Appl. Math., Vol. 74: 1418-1441 (2014).
-* Jude D. Kong, William Davis, and Hao Wang, _Dynamics of a cholera transmission model with immunological threshold and natural phage control in reservoir,_ Bulletin of Mathematical Biology, Vol. 76: 2025-2051 (2014).
-* Jude D. Kong, Chaochao Jin, and Hao Wang, _The inverse method for a childhood infectious disease model with its application to pre-vaccination and post-vaccination measles data,_ Bulletin of Mathematical Biology, Vol. 77: 2231-2263 (2015).
-* Kong, Jude D., Paul Salceanu, and Hao Wang, _A stoichiometric organic matter decomposition model in a chemostat culture,_ Journal of Mathematical Biology: 1-36 (2017).
+* Oluwole Olobatuyi, Gerda de Vries, Thomas Hillen, _A reaction-diffusion model for radiation-induced bystander effects,_ Journal of Mathematical Biology, Vol. 75(2): 341-372 (2017).
 
 Book publication:
 -------
-* Pierdomenica Pepe, Palumbo Pasquale, Jude D. Kong, Saseendran K. Sreeedhar and Panunzi Simona. _Regulation of the Human plasma glycemia by means of glucose measurements and subcutaneous insulin administration,_ in the proceedings of the 3rd international congress on intelligent control and automation science, 46(20), 524-529, (2013) .
+* Oluwole Olobatuyi. _An Introduction to Crossed Products of C*-Algebras,_ LAP LAMBERT Academic Publishing, Germany, 2015. ISBN: 978-3-659-49820-6 .
 
 Submitted projects:
 -------
-* Jude D. Kong, Tariq Siddique, Mark Lewis, Julia Foght, Hao Wang. _A methane generation model for oil sands settling basins and end pit lakes._ Environmental Science & Technology (in review).
+* Oluwole Olobatuyi, Gerda de Vries, and Thomas Hillen, Effects of G2-checkpoint dynamics on the low-dose hyper-radiosensitivity, Journal of Mathematical Biology (in review)
 
 Ongoing projects:
 ------
-* Jude D. kong, Simon A. Levin. _A mathematical model for the dynamics of phytoplankton in a stratified lake._
-* Jude D. Kong,  Christina Tadiri, Gregor Fussmann, Marilyn  Scott, Hao Wang _A mathematical model for guppy-gyrodactylus population dynamics in a laboratory pond._
+* Oluwole Olobatuyi, Gerda de Vries, and Thomas Hillen, _Asymptotic analysis of bystander signal-mediated cancer invasion._
 
 Workshops
 ======
   * Attended the MBI Workshop on Population Models in the 21st Century at the Ohio State University from November 14-18, 2016 and gave a poster presentation.
-  * Attended the PIMS young researchers conference at the University of Alberta. June 13-16, 2016.
-  Attended "Seminaire de Math ́ematiques Superieures 2016" at the University of Alberta. May
-  30-June 10, 2016.
-  * Attended the Alberta Student Leadership Summit. January 31, 2015.
-  * Attended the first conference on biological stoichiometry at Trent University and gave a poster
-  presentation. June 23-26, 2015.
-  * Attended BIRS Workshop 13w5151: Current Challenges for Mathematical Modelling of Cyclic
-  Populations from November 10 to November 15, 2013. and gave a talk.
-  * Attended the University of Alberta Summer school on the Mathematics Behind Biological Inva-
-  sions. May 2013.
-  *  Attended the IGTC Submit at Naramata and presented a poster. October 12-14.
-  * Attended the Young Researcher's workshop on Theoritical Approaches and Related Mathematical
-  Methods in Biology and Medicine in the University of L’Aquila, Italy from November November
-  30-December 2, 2011.
-  * Attended the Alberta Mathematics Dialogue (AMD) meeting May 2014 and May 2013 and gave
-  talks there. (Thurs-Fri) 2014 at the Augustana Campus.
+  * Mathematical Biosciences Institute (MBI) Workshop on Population models in the 21st Century at Ohio State University Columbus, OH, USA in November 2016. Poster presentation on the analysis of bystander signal persistence.
+  * 2016 Canadian Applied and Industrial Mathematics Society (CAIMS) Summer Meeting at University of Alberta, Edmonton, AB in June 2016. Invited speaker: A reaction-diffusion model for bystander effects on radiation on cell survival.	
+  * Seminaire de Math ́ematiques Superieures 2016 on Dynamics of biological systems at the University of Alberta, Edmonton, AB. Poster presentation on mathematical models for radiation-induced hyper-radiosensitivity.
+  * PIMS Young Researchers' Conference (YRC) in June 2016 at the University of Alberta, Edmonton, AB. Speaker: Dynamics of radiation-induced bystander signals.
+  * Alberta Mathematics Dialogue in April 2016 at Mount Royal University, Calgary, AB. Invited speaker: Investigating the effects of low dose radiation exposure on tumor Invasion.
+  * Research Day 2015, Cancer Research Institute of Northern Alberta in November 2015 at University of Alberta, Edmonton, AB. Poster presentation on Mathematical model for radiation-induced bystander signal	
+  * Workshop on Stem Cell, Development, and Cancer in April 2015 at Mathematical Biosciences Institute (MBI), Columbus, OH, USA. Poster presentation on the Dynamics of radiation-induced bystander signals.
+  * Partial Differential Equations in Cancer Modeling [15w5072] in February 2015 at Banff International Research Station, AB. Invited speaker: Dynamics of radiation-induced bystander signals.
+  * Inaugural Research Day 2014, Cancer Research Institute of Northern Alberta in November 2014 at University of Alberta, Edmonton, AB. Poster presentation on Mathematical Modeling of Cancer at the Center for Mathematical Biology
+  * Alberta Mathematics Dialogue in May 2014 at University of Alberta, Augutana Campus, AB.
+
+  
+Departmental Seminars and Colloquia
+======
+  * Persistence and invasion of radiation-induced bystander signals in November 2017. Applied Mathematics Seminar, University of Ottawa, ON.
+  * The effects of G2-checkpoint dynamics on low-dose hyper-radiosensitivity in October 2017 at PIMS Mathematical Biology Seminar, University of Alberta, Edmonton AB.
+  * A reaction-diffusion model for radiation-induced bystander effects in September 2016 at PIMS Mathematical Biology Seminar, University of Alberta, Edmonton, AB.
   
 Awards
 ======
