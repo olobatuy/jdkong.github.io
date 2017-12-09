@@ -11,19 +11,16 @@ redirect_from:
 
 Education
 ======
-*  __NSERC Postdoctoral Fellow,__ Currently
-   * _DIMACS/Princeton University_
-* __PhD in Applied Mathematics,__ August  2017
+* __PhD in Applied Mathematics,__ Expected in Winter  2018
   * _University of Alberta,_ Canada.
-* __Embded certificate in Data Sceince,__ August  2017
+* __Embded certificate in Data Sceince,__ Expected in Winter  2018
   * _University of Alberta,_ Canada.
-* __Master of Science in Mathematical Engineering,__ August  2012
-  * _Erasmus Mundus Joint Master's degree in Mathematical Modelling in Engineering(Mathmods):_ Theory, Numerics, Applications (University of L'Aquila-Italy and University of  Hamburg-Germany)
-* __Bachelor of Science in Mathematics,__ July 2009
-  * _University of Buea,_ Cameroon.
-* __Bachelor of Education in Mathematics,__ July 2006
-  * _Advanced Teachers' Training College Annex Bambili (Ecole Normale Superieure Annexe Bambili),_ University of Yaounde 1, Cameroon.
+* __Master of Science in Mathematics,__ June  2013
+  * _University of Windsor,_  Canada
+* __Bachelor of Science in Mathematics,__ January 2009
+  * _Federal University of Agriculture,_ Abeokuta,- Nigeria.
 
+  
 RESEARCH EXPERIENCE
 ======
 
