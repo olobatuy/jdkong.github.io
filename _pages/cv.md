@@ -40,6 +40,25 @@ Ongoing projects:
 ------
 * Oluwole Olobatuyi, Gerda de Vries, and Thomas Hillen, _Asymptotic analysis of bystander signal-mediated cancer invasion._
 
+Awards and Scholarships
+========
+  
+* Profiling Alberta's Graduate Students Award (12/2017) ( $ 2000).
+* Graduate Students' Association Academic Travel Award (12/2016) ( $ 500)
+* Queen Elizabeth II Graduate Scholarship-Doctoral (09/2017) ( $ 7500).
+* President’s International Doctoral Award (09/2014 - 08/2017)( $75,000)
+* Graduate Students' Association Academic Travel Award (11/2016) ( $ 500).
+* University of Alberta Doctoral Recruitment Award (09/2013) ( $ 5000).
+* 3M Canada Scholarship Award (03/2012)( $1,000).
+* University of Windsor International Entrance Scholarship (09/2011 - 09/2013)( $11,000).
+* Dr. D.K. Olukoya Academic Award of Excellence (01/2010) (Car gift).
+* UBA Award for the Best Graduating Mathematics Student (01/2009) ( N2500).
+* University of Agriculture Senate Award for First Class Graduate (01/2009) (N10,000).
+* Gold Medalist, National Mathematics Competition for University Students (11/2008) (N125,000)
+
+
+
+
 Workshops
 ======
 
@@ -64,11 +83,6 @@ Departmental Seminars and Colloquia
   * The effects of G2-checkpoint dynamics on low-dose hyper-radiosensitivity in October 2017 at PIMS Mathematical Biology Seminar, University of Alberta, Edmonton AB.
   * A reaction-diffusion model for radiation-induced bystander effects in September 2016 at PIMS Mathematical Biology Seminar, University of Alberta, Edmonton, AB.
   
-Awards
-======
-* __University of Alberta,__ Canada, 2015
-  * 2017 Graduate Student Teaching Award.
-  
 Teaching Experience
 ======
 * __University of Alberta,__ Canada, Terms: Winter, Spring & Summer 2014, Winter, Spring & Summer 2015,
@@ -88,19 +102,6 @@ Support Centre.
 * __Government Secondary School-Great Soppo,__ Buea, Cameroon Sept 2006 - July 2010
   * Taught Mathematics to Secondary School students.
  
-Scholarshps
-======
-
-* The Natural Sciences and Engineering Research Council Postdoctoral Fellowship (September 2017) ($ 90000).
-* Josephine Mitchell Scholarship (November 2016) ($ 4000).
-* Graduate Students’ Association Academic Travel Award (November 2016) ($ 500).
-* Queen Elizabeth II Graduate Scholarship-Doctoral (September 2016) ($ 7500).
-* Josephine Mitchell Graduate student summer support Scholarship (GS4) (April 2016) ($ 3500). • The University of Alberta’s Faculty of Graduate Studies and Research Travel Award (November 2015) ($ 2000).
-* PIMS graduate student training acceleration award ($10447).
-* Erasmus Mundus Scholarship (September 2010-August 2012) (31000 Euros).
-* Cameroon head of state’s academic excellence award, 2009 (300000 frs CFA).
-* The University of Buea vice-chancellor’s awards for academic excellence, 2008 (150000 frs CFA).
-
 Languages
 ======
 * English, French, Pidgin English, Lamnso, Italian(B1), German (A1)
