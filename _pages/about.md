@@ -15,18 +15,16 @@ Mathematical models include ordinary differential equations and nonlinear partia
 
 My expertise in statistical modeling and machine learning include generalized linear models, and nonlinear models like neural net, Bayesian net, support vector machines, and classification and regression analysis. Biological problems in the last five years include statistical ecology, population dynamic models, analysis and inference, and metabolic and body composition data. Software includes R package, MATLAB, Tableau, Mathematica, Java, C, and Python. 
 
-My primary research work focuses on formulating and analyzing stoichiometry based biodegradation models. Questions I attempt to answer include:
-* What mechanisms allow microbes and  resources  to persist uniformly or go extinct?
-* How do the grazers affect decomposition?
-* How can the rate of decomposition be maximized or minimized?
-* What are the impacts of important factors such as temperature, priming effect, and inhibitory effect of excess  organic matter on the decomposition rate?
+The details of my research work entail modeling the formulating and analyzing PDE and ODE models for bystander effects and the G2-checkpoint dynamics; while answering the following research questions.
+* How does the persistence of bystander signals depend on the signalling cells?
+* What is the role of bystander signal in the invasion of cancer cells into its surrounding normal tissue after radiation treatment?
+* How does the initial slope of surviving fraction depend on the cell cycle events in the G2-checkpoint dynamics?
+* What is the connections between the low-dose hypersensitivity in cells and its radio-resistance at low-doses?
 
-Additionally, I develop and analyze  stoichiometry based models for  the dynamics of phytoplankton  in a stratified lake. These models  incorporate the  dependence of phytoplankton production on light and cellular nutrient contents.  The main objectives here are twofold:
-* firstly, to examine how the key features of a stratified lake, such as the depths of epilimnion and hypolimnion, nutrient and light availability, affect the persistence, extinction and biodiversity of algae and bacteria in a stratified lake and
-* secondly to dicuss how human activities, such as nearby agriculture or industrial pollution, cause harmful algal blooms in a stratified lake.
+Ionizing radiations are widely used in the treatment of more than 50\% of cancer and various medical scans. Although cellular response to ionizing radiation (IR) is well studied, the vast majority of these studies were done at higher doses; and there is no consensus regarding the effects of low doses on cells. Deadly effects like carcinogenesis, hyper-radiosensitivity, and cancer invasions are common effects of exposures to low doses on cells. Earlier models that studied these responses were limited to a class of individual-based and phenomenological models. While these classes of models can be useful, they are not amenable to mathematical analysis and their statistical data analysis requires extremely high computational complexities. These make the analysis of steady state solutions of such models impossible. The importance of steady states is that these are the effects observed in cells and tissues (e.g., cell invasion and carcinogenesis).
 
-I also have a vested interest in diseases dynamics, which is growing rapidly. The current focus is on  formulating and analyzing directly and indirectly  transmitted infectious disease model among homogenous populations as well as heterogeneous populations.  Questions aim to answer include:
-* Why are there irregularities in seasonal patterns of outbreaks amongst different countries?
-* How  can we estimate the transmission   function of an infectious disease  from a given incidence or prevalence data set?
-* What is the estimated value of the basic reproduction number in affected regions?
+I formulate and analyze a system of nonlinear partial differential equations (PDE) model for the radiation-induced bystander effect, which is one of the cellular event that leads the phenomenon of low-dose hyper-radiosensitivity. This model incorporate bystander effects like cell death, DNA damage, and DNA repair delay. Questions we attempt to answer include: (i) How does the persistence or extinction of the bystander signals, which cause the bystander effects, depend on the nature of irradiated cells? (ii) How does the invasion speed of the signals depend on the nature of both the irradiated and the surrounding un-irradiated cells? (iii) What is the effect of bystander signals on the invasion speed of irradiated cells vis-a-vis the surrounding un-irradiated cells?
 
+I show the existence of local solution to this PDE model by combining classical results on mollification and Galerkin
+
+I will also present a system of ordinary differential equations (ODE) that incorporate cell cycle dynamics and the G2-checkpoint events like the mitotic catastrophe, DNA damage, and the activation dynamics of the G2-checkpoint. Questions we attempt to answer include: (i) How does the HRS phenomenon depend on the cell cycle events involved in the G2-checkpoint dynamics? (ii) What is the connection between the magnitude of HRS in a cell and its resistance to radiation dose of 2Gy?
