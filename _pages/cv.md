@@ -42,7 +42,10 @@ Ongoing projects:
 
 Workshops
 ======
-  * Attended the MBI Workshop on Population Models in the 21st Century at the Ohio State University from November 14-18, 2016 and gave a poster presentation.
+
+  * Ninth Workshop Dynamical Systems Applied to Biology and Natural Sciences in February 2018 at Dipartimento di Matematica, Universita di Torino, Italy. Speaker: Effects of G2-Checkpoint dynamics on the low-dose hyper-radiosensitivity.
+  * Multiscale problems in Materials Science and Biology: Analysis and Computations in January 2018 at Tsinghua Sanya International Mathematics Forum (TSIMF), China. Invited speaker: Asymptotic analysis of invasion waves of radiation-induced bystander signals.
+  * Canadian Mathematical Society Winter meeting 2017 in December 2017 at University of Waterloo, ON. Invited speaker: Modeling the effects of G2-checkpoint dynamics on the low-dose hyper-radiosensitivity.
   * Mathematical Biosciences Institute (MBI) Workshop on Population models in the 21st Century at Ohio State University Columbus, OH, USA in November 2016. Poster presentation on the analysis of bystander signal persistence.
   * 2016 Canadian Applied and Industrial Mathematics Society (CAIMS) Summer Meeting at University of Alberta, Edmonton, AB in June 2016. Invited speaker: A reaction-diffusion model for bystander effects on radiation on cell survival.	
   * Seminaire de Math ́ematiques Superieures 2016 on Dynamics of biological systems at the University of Alberta, Edmonton, AB. Poster presentation on mathematical models for radiation-induced hyper-radiosensitivity.
@@ -63,10 +66,8 @@ Departmental Seminars and Colloquia
   
 Awards
 ======
-  * __University of Alberta,__ Canada, 2017
-    * Faculty of Science Doctoral Dissertation Award.
 * __University of Alberta,__ Canada, 2015
-  * 2015 Graduate Student Teaching Award.
+  * 2017 Graduate Student Teaching Award.
   
 Teaching Experience
 ======
