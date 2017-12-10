@@ -122,7 +122,7 @@ Computer skills
 Community Services and Leadership
 ======
 
-* __ Leadership team__ Men's Fellowship, Rhema Chapel Edmonton. Since 2015. 
+* __Leadership team:__ Men's Fellowship, Rhema Chapel Edmonton. Since 2015. 
 * __Hobbema Outreach, Rhema Chapel Edmonton:__ Back to school campaign for the kids in the first nation community of Lois Bull, Hobbema, and Maskwacis, August 2017.
 * __Organizer:__ The Pacific Institute for the Mathematical Sciences Young Researchers Conference _http://pimsyrc2016.ca
 University of Alberta
