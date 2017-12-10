@@ -98,7 +98,7 @@ Teaching Experience
 * __Department of Mathematics and Statistics,__ University of Windsor, Canada, Fall 2011 - Winter 2013. 
   * Taught Math 62-216 (Ordinary Differential Equations) and Math 62-125 (Vectors and Linear Algebra) Labs.
   * Designed and graded quizzes for these labs. Equally graded the weekly assignments for students in this lab.
-  * Provided help to students in 100 \& 200 level math courses at Math and Stats Learning Centre.
+  * Provided help to students in 100 & 200 level math courses at Math and Stats Learning Centre.
   * Graded assignments, midterm and final exams for other first and second year mathematics.
   * Proctor midterm and final examinations.
 
@@ -108,28 +108,33 @@ Teaching Experience
  
 Languages
 ======
-* English, French, Pidgin English, Lamnso, Italian(B1), German (A1)
+* English, Yoruba, Pidgin English.
 
 Computer skills
 ======
 * __Programming Languages:__
-   * Python, Julia and Java.
+   * Python, C, Tableau, and Java.
 * __Specialised Softwares:__
-  * MATLAB, Mathematica, R, STATA, SAS, SPSS.
+  * MATLAB, Mathematica, R, STATA.
 
 
 
 Community Services and Leadership
 ======
-* __Organizer:__ The Pacific Institute for the Mathematical Sciences Young Researchers Conference _http://pimsyrc2016.ca_,
+
+* __ Leadership team__ Men's Fellowship, Rhema Chapel Edmonton. Since 2015. 
+* __Hobbema Outreach, Rhema Chapel Edmonton:__ Back to school campaign for the kids in the first nation community of Lois Bull, Hobbema, and Maskwacis, August 2017.
+* __Organizer:__ The Pacific Institute for the Mathematical Sciences Young Researchers Conference _http://pimsyrc2016.ca
 University of Alberta
-* __Vice president:__ University of Alberta Mathematical and Statistical Sciences Graduate Students Association
-* __Volunteers’ Leader:__  International Student Services (ISS)
-* __Concillor- at Large:__  University of Alberta Graduate Students' Association, April 2014-April 2016.
-* __International Student Advisory Council (ISAC):__ International Student Services (ISS), August 2014 - August 2015.
-* __Coordinator:__ Erasmus Mundus Students’ and Alumni’s Association(EMA) Central Africa Subregional Chapter, August 2011-August 2014
-* __President:__ Advanced Teacher's Training College Annex Bambili,  May 2005-May 2006.
-* __Volunteer, Cameroon cultural pavilion:__ GlobalFest 2013, August 14-24.
+* __Math Fair:__ Decima Robinson Support Centre, University of Alberta, November 2015.
+* __Selection Committee:__  Josephine M. Mitchell and Faculty of Science Graduate Mentoring Awards, Department of Math. and Stat; and Faculty of Science, University of Alberta, February 2015. 
+* __Organizer:__  Live-it-Loud National Youth Conference, Windsor ON, July 2013.
+* __President:__ Servicom Community Development Group, Nigeria, July 2009 - June 2010.
+* __Youth Pastor__ Mountain of Fire and Miracle Ministries, Abeokuta, 2005 - 2011
+* __General Secretary:__ National Association of Mathematical Sciences UNAAB Chapter, 2007 -  2008
+
+
+
 
 
   
