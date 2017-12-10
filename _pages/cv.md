@@ -85,24 +85,24 @@ Departmental Seminars and Colloquia
   
 Teaching Experience
 ======
-* __Department of Mathematical and Statistical Sciences,__ University of Alberta, __ Canada, Fall 2013 - till date. 
+* __Department of Mathematical and Statistical Sciences,__ University of Alberta, Canada, Fall 2013 - till date. 
   * Teach Math 101 (Calculus I), Math 201 (Ordinary Differential Equations), and Math 209 (Calculus III) Labs.
   * Set and grade quizzes for these labs. I also grade weekly assignments for students in these labs.
   * Provide help to students in 100 & 200 level math courses at Decima Robinson Math Help Center.
   * Proctor and grade midterm and final examinations.
   
   
-* __Department of Mathematics,__ Grant MacEwan University, __ Canada, Fall 2015. 
+* __Department of Mathematics,__ Grant MacEwan University, Canada, Fall 2015. 
   * Graded weekly assignments for Math 436 (Partial Differential Equations) and Math 410 (Analysis and Topology).
 
-* __Department of Mathematics and Statistics,__ University of Windsor, __ Canada, Fall 2011 - Winter 2013. 
+* __Department of Mathematics and Statistics,__ University of Windsor, Canada, Fall 2011 - Winter 2013. 
   * Taught Math 62-216 (Ordinary Differential Equations) and Math 62-125 (Vectors and Linear Algebra) Labs.
   * Designed and graded quizzes for these labs. Equally graded the weekly assignments for students in this lab.
   * Provided help to students in 100 \& 200 level math courses at Math and Stats Learning Centre.
   * Graded assignments, midterm and final exams for other first and second year mathematics.
   * Proctor midterm and final examinations.
 
-* __Department of Mathematics,__ University of Agriculture, Abeokuta __ Nigeria, 08/2010 - 08/2011. 
+* __Department of Mathematics,__ University of Agriculture, Abeokuta, Nigeria, 08/2010 - 08/2011. 
   * Shared responsibilities for lectures, tutorials, exams, homework assignments, and  grading.
  
  
